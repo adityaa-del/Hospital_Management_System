@@ -194,3 +194,7 @@ while True:
 
 cur.close()
 con.close()
+
+
+#CREATE DATABASE HMSCodes;
+#USE HMSCodes;
